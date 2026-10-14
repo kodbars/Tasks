@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "F:\\VS_Project\\Tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A1FEF49-D0C6-41E0-BCD3-8B4E8840D882}|Tasks\\Tasks.csproj|f:\\vs_project\\tasks\\tasks\\middleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1FEF49-D0C6-41E0-BCD3-8B4E8840D882}|Tasks\\Tasks.csproj|solutionrelative:tasks\\middleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA3CBC35-E0CA-3092-AE24-B470A9E4772C}|Tasks\\Tasks.csproj|f:\\vs_project\\tasks\\tasks\\_2_thecheapestway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3CBC35-E0CA-3092-AE24-B470A9E4772C}|Tasks\\Tasks.csproj|solutionrelative:tasks\\_2_thecheapestway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1FEF49-D0C6-41E0-BCD3-8B4E8840D882}|Tasks\\Tasks.csproj|f:\\vs_project\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1FEF49-D0C6-41E0-BCD3-8B4E8840D882}|Tasks\\Tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA3CBC35-E0CA-3092-AE24-B470A9E4772C}|Tasks\\Tasks.csproj|f:\\vs_project\\tasks\\tasks\\middleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3CBC35-E0CA-3092-AE24-B470A9E4772C}|Tasks\\Tasks.csproj|solutionrelative:tasks\\middleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3CBC35-E0CA-3092-AE24-B470A9E4772C}|Tasks\\Tasks.csproj|f:\\vs_project\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3CBC35-E0CA-3092-AE24-B470A9E4772C}|Tasks\\Tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_2_TheCheapestWay.cs",
+              "DocumentMoniker": "F:\\VS_Project\\Tasks\\Tasks\\_2_TheCheapestWay.cs",
+              "RelativeDocumentMoniker": "Tasks\\_2_TheCheapestWay.cs",
+              "ToolTip": "F:\\VS_Project\\Tasks\\Tasks\\_2_TheCheapestWay.cs",
+              "RelativeToolTip": "Tasks\\_2_TheCheapestWay.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:35:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MiddleElement.cs",
               "DocumentMoniker": "F:\\VS_Project\\Tasks\\Tasks\\MiddleElement.cs",
               "RelativeDocumentMoniker": "Tasks\\MiddleElement.cs",
               "ToolTip": "F:\\VS_Project\\Tasks\\Tasks\\MiddleElement.cs",
               "RelativeToolTip": "Tasks\\MiddleElement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T17:25:50.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\VS_Project\\Tasks\\Tasks\\Program.cs",
               "RelativeDocumentMoniker": "Tasks\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Tasks\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T17:24:57.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T17:24:57.568Z"
             }
           ]
         }
